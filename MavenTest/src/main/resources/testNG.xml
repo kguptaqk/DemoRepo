@@ -1,0 +1,18 @@
+<suite name="Test Maven Suite">
+
+	<test name="Test Maven Testing">
+
+		<packages>
+
+			<package name="com.qa.Automation_test.*">
+
+			</package>
+
+		</packages>
+
+
+
+
+	</test>
+
+</suite>
